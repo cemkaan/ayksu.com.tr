@@ -551,7 +551,6 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: absolute;
     display: block;
     width: 120px;
-    open height: 1px;
     background: #ddd;
     bottom: 1px;
     left: calc(50% - 60px);
