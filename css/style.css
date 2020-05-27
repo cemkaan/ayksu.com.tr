@@ -1374,3 +1374,30 @@ a.close-modal {
     top: 1em !important;
     right: 1em !important;
 }
+.dugme {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#0F123D;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #fff;
+    max-width: 15rem;
+    margin: 1rem 2rem;
+}
+.dugme:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.dugme:active {
+	position:relative;
+	top:1px;
+}
+
