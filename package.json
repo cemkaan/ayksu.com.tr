@@ -3,6 +3,6 @@
     "dev": "browser-sync start --server --files 'css/*.css'"
   },
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.29.3"
   }
 }
